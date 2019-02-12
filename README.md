@@ -11,3 +11,6 @@ Steps to reproduce:
 4. Click the button to be transferred to A page.
 5. Click the button to be transferred to B page.
 6. Click browser back button will trigger infinite redirect bug.
+
+Screenshot of the infinite redirect:
+https://github.com/guylando/MVC302RedirectCacheBug/blob/master/screenshot%20infinite%20redirect.png
